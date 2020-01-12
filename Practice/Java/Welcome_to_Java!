@@ -1,0 +1,7 @@
+public class Solution {
+
+    public static void main(String[] args) {
+        // Print a string literal saying "Hello, World." and "Hello, Java." in two different line to stdout.
+        System.out.println("Hello, World.\n"+"Hello, Java.");
+    }
+}
